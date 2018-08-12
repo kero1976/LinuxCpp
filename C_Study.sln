@@ -5,6 +5,7 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BBCCF575-C2DB-463B-A44F-C495BCBAE503}"
 	ProjectSection(SolutionItems) = preProject
+		src\explanation.cpp = src\explanation.cpp
 		src\main.cpp = src\main.cpp
 	EndProjectSection
 EndProject

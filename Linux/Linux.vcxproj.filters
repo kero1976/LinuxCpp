@@ -9,5 +9,8 @@
     <ClCompile Include="..\src\main.cpp">
       <Filter>ソースファイル</Filter>
     </ClCompile>
+    <ClCompile Include="..\src\explanation.cpp">
+      <Filter>ソースファイル</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
